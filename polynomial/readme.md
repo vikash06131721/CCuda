@@ -49,6 +49,6 @@ The code supports polynomials of different degrees, defined by the user at runti
    nvcc -o polynomial polynomial.cu
    ./polynomial 2 0.001
 
-###Tip
+### Tip
 
 Try varying learning rate with degrees? What can you make of it.
