@@ -46,5 +46,7 @@ The code supports polynomials of different degrees, defined by the user at runti
 
 2. **Compile the Code**: Use the following command to compile the code:
    ```bash
-   nvcc -o polynomial_optimizer polynomial_optimizer.cu
+   nvcc -o polynomial polynomial.cu
+   ./polynomial 2 0.001
+
 ```
