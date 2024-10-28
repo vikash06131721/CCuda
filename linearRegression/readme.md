@@ -38,3 +38,6 @@ The overall algorithm follows these steps:
    ```bash
    nvcc -o linear_regression linear_regression.cu
 
+   ./linear_regression data/data.csv
+
+
